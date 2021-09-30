@@ -1,0 +1,17 @@
+body {
+    background: #e6e6ff;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    color: #1a1a00;
+    line-height: .1;
+}
+
+#garish-nightmare span{
+    background-color: #f0f;
+    line-height: 10;
+}
